@@ -1,1 +1,1 @@
-export const BRIGADE_API_HOST = window.location.origin;
+export const BRIGADE_API_HOST = 'http://localhost:7745';
